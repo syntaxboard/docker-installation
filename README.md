@@ -2,6 +2,10 @@
 # Windows
 ## Download Docker Desktop for Windows
 [Docker Desktop for Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)
+
+[Docker Desktop for Mac with Intel chip](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64)
+
+[Docker Desktop for Mac with Apple chip](https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64)
 ## Install interactively
 1. Double-click Docker Desktop Installer.exe to run the installer.
 ![image](https://user-images.githubusercontent.com/51730523/174503709-5eb96362-797a-4c95-9d8e-99a39de3497d.png)
