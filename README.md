@@ -21,12 +21,19 @@
 
 
 ![image](https://user-images.githubusercontent.com/51730523/174503528-cf5a5666-2ab5-4e58-9699-fd87f7db95a9.png)
-Open PowerShell as Administrator (Start menu > PowerShell > right-click > Run as Administrator) and enter this command:
-`dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart`
+
+  1. Open PowerShell as Administrator (Start menu > PowerShell > right-click > Run as Administrator) and enter this command:
+```
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+```
 ![image](https://user-images.githubusercontent.com/51730523/174503534-6d450057-50b4-444f-9b9e-f73a0d9a19c3.png)
 
-Open PowerShell as Administrator and run:
+  2. Open PowerShell as Administrator and run:
+```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+```
 
 ![image](https://user-images.githubusercontent.com/51730523/174503542-f50193ad-4646-474d-a672-caaefc5da557.png)
 
